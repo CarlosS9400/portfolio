@@ -63,7 +63,7 @@ h2 .bold-text {
 }
 
 p a {
-  color: #99d930;
+  color: #7f87e8;
 }
 
 a:hover {
@@ -95,11 +95,7 @@ a {
 
 }
 
-.btn{
-  background-color: #99d990;
-
-  font-weight: 500;
-}
+.
 
 .btn:hover,
 .btn:focus {
@@ -109,16 +105,23 @@ a {
 
 }
 
+.btn {
+  background-color: #7f87e8;
+  font-weight: 300;
+}
+
 .btn-1 {
+  
   color: #000;
+  
 }
 
 .btn-1:hover {
-  color: #fff;
+  color: whitesmoke;
 }
 
 .btn-2 {
-  color: #fff;
+  color: whitesmoke
 }
 
 .btn-2:hover {
@@ -129,5 +132,5 @@ a {
 .bold-text,
 .name,
 .time {
-  color: #99d990;
+  color: #7f87e8;
 }
